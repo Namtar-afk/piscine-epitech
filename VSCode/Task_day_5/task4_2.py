@@ -1,0 +1,2 @@
+Write a program that deletes all the duplicated elements in a list.
+Test it with [1, 1, 2, 2, 3] and with ['a', 2, 'a', 2, 'A'], they should return 3 elements.
