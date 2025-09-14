@@ -10,18 +10,18 @@ Il est organisé **jour par jour**, avec pour chaque journée :
 
 ## 📂 Arborescence
 .
-├── Day_XX
-│ ├── consignes_dayXX.pdf
-│ ├── notes_dayXX.md
-│ └── solutions_dayXX
-│ ├── task1_X.py
-│ ├── task2_X.py
-│ ├── task3_X.py
-│ ├── task4_X.py
-│ └── challenge_dayXX.py
-├── .gitignore
-├── LICENSE
-└── README.md
+├── Day_XX 
+│ ├── consignes_dayXX.pdf 
+│ ├── notes_dayXX.md 
+│ └── solutions_dayXX 
+│ ├── task1_X.py 
+│ ├── task2_X.py 
+│ ├── task3_X.py 
+│ ├── task4_X.py 
+│ └── challenge_dayXX.py 
+├── .gitignore 
+├── LICENSE 
+└── README.md 
 
 ---
 
