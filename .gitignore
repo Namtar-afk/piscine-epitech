@@ -1,0 +1,21 @@
+﻿# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# === VS Code / Editors ===
+.vscode/
+.history/
+*.code-workspace
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs / Misc ===
+*.log
