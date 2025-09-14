@@ -10,7 +10,8 @@ Il est organisé **jour par jour**, avec pour chaque journée :
 
 ## 📂 Arborescence
 .
-├── Day_XX
+├── Day_XX 
+
 │ ├── consignes_dayXX.pdf
 
 │ ├── notes_dayXX.md
