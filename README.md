@@ -43,6 +43,7 @@ Il est organisé **jour par jour**, avec pour chaque journée :
 - **Day 03** → Chaînes de caractères, slicing, acronymes, comptage lettres, challenge `cat/garden/mice`.  
 - **Day 04** → Conditions, boucles, FizzBuzz, cryptographie (César, Vigenère), challenge logique.  
 - **Day 05** → Listes, slicing, comprehensions, dictionnaires, recherche imbriquée, déduplication, agenda réunions.  
+- **Day 06** → Fonctions Python, récursion, fonctions d'ordre supérieur, validation de mots de passe, gestion d'erreurs, mesure de performance.  
 
 ---
 
