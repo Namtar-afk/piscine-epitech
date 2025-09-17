@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿# Piscine
-
-=======
-﻿# Piscine Epitech – Septembre-Décembre 2025
+# Piscine Epitech – Septembre-Décembre 2025
 
 Ce dépôt regroupe l’ensemble de mes travaux réalisés durant la **Piscine Epitech**.  
 Il est organisé **jour par jour**, avec pour chaque journée :  
@@ -57,5 +53,4 @@ Il est organisé **jour par jour**, avec pour chaque journée :
 
 - Montrer ma progression quotidienne.  
 - Documenter les notions apprises et mes solutions.  
-- Présenter un travail clair, versionné, structuré, facilement partageable.  
->>>>>>> origin/main
+- Présenter un travail clair, versionné, structuré, facilement partageable.
