@@ -1,10 +1,33 @@
+<<<<<<< HEAD
 ﻿__pycache__/
 *.py[cod]
+=======
+﻿# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+>>>>>>> origin/main
 *.egg-info/
 .venv/
 venv/
 .env
+<<<<<<< HEAD
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
 .vscode/
+=======
+
+# === VS Code / Editors ===
+.vscode/
+.history/
+*.code-workspace
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Logs / Misc ===
+*.log
+>>>>>>> origin/main
