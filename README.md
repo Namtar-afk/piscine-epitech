@@ -44,7 +44,8 @@ Il est organisé **jour par jour**, avec pour chaque journée :
 - **Day 04** → Conditions, boucles, FizzBuzz, cryptographie (César, Vigenère), challenge logique.  
 - **Day 05** → Listes, slicing, comprehensions, dictionnaires, recherche imbriquée, déduplication, agenda réunions.  
 - **Day 06** → Fonctions Python, récursion, fonctions d'ordre supérieur, validation de mots de passe, gestion d'erreurs, mesure de performance.
-- **Day 07** → Jeu du Hangman (console) : briques progressives (check pénalités, random, masque, pseudocode), implémentation simple, et variantes créatives (mode Apocalypse Zombie).  
+- **Day 07** → Jeu du Hangman (console) : briques progressives (check pénalités, random, masque, pseudocode), implémentation simple, et variantes créatives (mode Apocalypse Zombie).
+- **Day 08** → Découverte des packages Python (`pip`), dessins géométriques avec `turtle` (carrés, polygones, spirales), introduction à `pygame`
 
 ---
 
