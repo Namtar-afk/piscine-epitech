@@ -46,6 +46,8 @@ Il est organisé **jour par jour**, avec pour chaque journée :
 - **Day 06** → Fonctions Python, récursion, fonctions d'ordre supérieur, validation de mots de passe, gestion d'erreurs, mesure de performance.
 - **Day 07** → Jeu du Hangman (console) : briques progressives (check pénalités, random, masque, pseudocode), implémentation simple, et variantes créatives (mode Apocalypse Zombie).
 - **Day 08** → Découverte des packages Python (`pip`), dessins géométriques avec `turtle` (carrés, polygones, spirales), introduction à `pygame`
+- **Day 09** → Intégration backend/frontend Hangman : API robuste, gestion fichiers (`words.txt`, `best_scores.txt`), interface pygame avec HUD, gestion erreurs et états limites
+- **Day 10** → Récap et auto-évaluations: dos and donts, best practices
 
 ---
 
