@@ -1,23 +1,17 @@
-<<<<<<< HEAD
-﻿__pycache__/
-*.py[cod]
-=======
 ﻿# === Python ===
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
->>>>>>> origin/main
 *.egg-info/
+
+# === Environnements ===
 .venv/
 venv/
 .env
-<<<<<<< HEAD
+
+# === Notebooks ===
 .ipynb_checkpoints/
-.DS_Store
-Thumbs.db
-.vscode/
-=======
 
 # === VS Code / Editors ===
 .vscode/
@@ -30,4 +24,3 @@ Thumbs.db
 
 # === Logs / Misc ===
 *.log
->>>>>>> origin/main
