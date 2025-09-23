@@ -55,14 +55,14 @@ Pré‑requis: `git` installé.
 
 Option HTTPS:
 ```bash
-git clone https://github.com/<ORGANISATION>/<REPO>.git
-cd <REPO>
+git clone https://github.com/Namtar-afk/piscine-epitech.git
+cd piscine-epitech
 ```
 
 Option SSH:
 ```bash
-git clone git@github.com:<ORGANISATION>/<REPO>.git
-cd <REPO>
+git clone git@github.com:Namtar-afk/piscine-epitech.git
+cd piscine-epitech
 ```
 
 Vérifier l’arborescence:
