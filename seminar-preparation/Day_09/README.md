@@ -1,4 +1,7 @@
-# Day 09 – Notes
+# Day 09 — Notes
+
+- Consignes: [consignes_day09.pdf](consignes_day09.pdf)
+- Solutions: [hangman_game/](hangman_game/)
 
 ## Objectifs
 - Relier back (moteur zombie) et front (pygame).  

@@ -1,4 +1,7 @@
-# Day 01 – Notes
+# Day 01 — Notes
+
+- Consignes: [consignes_day01.pdf](consignes_day01.pdf)
+- Solutions: [solutions_day01/](solutions_day01/)
 
 ## Objectifs
 - Préparer environnement de travail.  
@@ -19,4 +22,4 @@
 - **Distro** : choix stratégique selon besoins + communauté.  
 - **Terminal** : outil central.  
 - **Éditeurs** : complémentaires selon usage.  
-- **Bandit** : bon entraînement shell. 
+- **Bandit** : bon entraînement shell.

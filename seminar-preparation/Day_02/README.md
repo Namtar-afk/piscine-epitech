@@ -1,4 +1,7 @@
-# Day 02 – Notes
+# Day 02 — Notes
+
+- Consignes: [consignes_day02.pdf](consignes_day02.pdf)
+- Solutions: [solutions_day02/](solutions_day02/)
 
 ## Objectifs
 - Découvrir Python (bases, divisions, modulo).  

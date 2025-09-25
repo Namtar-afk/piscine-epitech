@@ -1,4 +1,7 @@
-# Day 12 – Notes
+# Day 12 — Notes
+
+- Consignes: [consignes_day12.pdf](consignes_day12.pdf)
+- Solutions: [solutions_day12/](solutions_day12/)
 
 ## Objectifs
 - Découvrir HTML5 sémantique et structurer des pages (header/nav/main/aside/footer).  
@@ -22,4 +25,3 @@
 - Accessibilité et SEO : attributs `lang`, `meta charset`, `meta viewport`, `title`, `alt` (si images).  
 - Bonnes pratiques CSS : factoriser des classes réutilisables (ex. `.box`) et éviter la duplication ; valider les contrastes et la lisibilité.  
 - Contenus techniques : isoler le code dans `<pre><code>` ; pour les abréviations, utiliser `<abbr title="...">`.  
-

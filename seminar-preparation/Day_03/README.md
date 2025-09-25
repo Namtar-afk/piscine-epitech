@@ -1,7 +1,10 @@
-# Day 03 – Notes
+# Day 03 — Notes
+
+- Consignes: [consignes_day03.pdf](consignes_day03.pdf)
+- Solutions: [solutions_day03/](solutions_day03/)
 
 ## Objectifs
-- Appronfondir les bases de Python 
+- Appronfondir les bases de Python  
 - Manipuler chaînes et slicing.  
 - Utiliser méthodes de string.  
 - Introduire input utilisateur.  

@@ -1,7 +1,10 @@
-# Day 04 – Notes
+# Day 04 — Notes
+
+- Consignes: [consignes_day04.pdf](consignes_day04.pdf)
+- Solutions: [solutions_day04/](solutions_day04/)
 
 ## Objectifs
-- Appronfondir les bases de Python 
+- Appronfondir les bases de Python  
 - Maîtriser conditionnels et opérateurs logiques.  
 - Écrire boucles for/while.  
 - Produire sorties textuelles complexes (FizzBuzz, 99 bottles).  

@@ -1,4 +1,7 @@
-# Day 11 – Notes
+# Day 11 — Notes
+
+- Consignes: [consignes_day11.pdf](consignes_day11.pdf)
+- Solutions: [solutions_day11/](solutions_day11/)
 
 ## Objectifs
 - Pratiquer Linux/Bash (scripts, permissions, globbing).  
@@ -23,5 +26,3 @@
 - Git : le premier `push` d’une nouvelle branche requiert souvent `--set-upstream` ; sécuriser l’usage en validant les arguments (`$#`) et en affichant un `Usage`.  
 - Noms avec espaces : toujours citer les chemins (`"..."`).  
 - Archivage/Compression : distinguer tar (archiver) et gzip (compresser) ; produire un `.tar.gz` ou un flux tar pipé vers gzip selon les consignes.  
-
-

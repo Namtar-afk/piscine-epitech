@@ -1,4 +1,7 @@
-# Day 06 – Notes
+# Day 06 — Notes
+
+- Consignes: [consignes_day06.pdf](consignes_day06.pdf)
+- Solutions: [solutions_day06/](solutions_day06/)
 
 ## Objectifs
 - Découvrir les fonctions en Python (définition, paramètres, return).  

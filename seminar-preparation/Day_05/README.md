@@ -1,7 +1,10 @@
-# Day 05 – Notes
+# Day 05 — Notes
+
+- Consignes: [consignes_day05.pdf](consignes_day05.pdf)
+- Solutions: [solutions_day05/](solutions_day05/)
 
 ## Objectifs
-- Appronfondir les bases de Python 
+- Appronfondir les bases de Python  
 - Créer et manipuler des listes.  
 - Utiliser boucles, slicing et compréhensions.  
 - Découvrir opérations sur listes (map, filter, zip, enumerate).  
@@ -30,5 +33,4 @@
 - **Performance** : tris sur grands volumes nécessitent algorithmes optimisés (Timsort en Python).  
 - **Dictionnaires** : accès clé/valeur, structures imbriquées pour données complexes.  
 - **Déduplication** : importance de conserver ordre ou non (`set` vs boucle).  
-- **Agenda** : pratique de recherche et filtrage dans structures imbriquées.  
-- **Culture dev** : pair coding et revue de code essentiels à l’apprentissage.  
+- **Agenda** : pratique de recherche et filtrage dans structures imbriquées.
