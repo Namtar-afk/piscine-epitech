@@ -20,7 +20,7 @@ Chaque journée contient:
 │   ├── Day_01/ ... Day_10/
 │   └── README.md
 ├── seminar-web/
-│   ├── Day_11/ Day_12/ Day_13/ DAY_14_15/
+│   ├── Day_11/ Day_12/ Day_13/ Day_14_15/
 │   └── README.md
 ├── .gitignore
 ├── LICENSE
@@ -47,7 +47,7 @@ Chaque journée contient:
 - **Day 11** — [Consignes](seminar-web/Day_11/consignes_day11.pdf) · [README](seminar-web/Day_11/README.md) · [Solutions](seminar-web/Day_11/solutions_day11/)
 - **Day 12** — [Consignes](seminar-web/Day_12/consignes_day12.pdf) · [README](seminar-web/Day_12/README.md) · [Solutions](seminar-web/Day_12/solutions_day12/)
 - **Day 13** — [Consignes](seminar-web/Day_13/Consignes_day13.pdf) · [README](seminar-web/Day_13/README.md) · [Solutions](seminar-web/Day_13/solutions_day13/)
-- **Days 14–15** — [Consignes](seminar-web/DAY_14_15/Consignes_day14-15.pdf) · [README](seminar-web/DAY_14_15/README.md)
+- **Days 14–15** — [Consignes](seminar-web/Day_14_15/Consignes_day14-15.pdf) · [README](seminar-web/Day_14_15/README.md)
 
 ---
 
